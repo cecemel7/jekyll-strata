@@ -35,6 +35,7 @@ plugins:
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 # exclude:
+
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules
@@ -42,3 +43,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+url: "http://:"
+baseurl: ""
